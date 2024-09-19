@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salak301\\source\\repos\\licorera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23E7EE-33B8-4D4E-AD43-19BDE5F48AC4}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\salak301\\source\\repos\\licorera\\mst_pruebas\\nucleo\\configuracionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23E7EE-33B8-4D4E-AD43-19BDE5F48AC4}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\nucleo\\configuracionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23E7EE-33B8-4D4E-AD43-19BDE5F48AC4}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\salak301\\source\\repos\\licorera\\mst_pruebas\\repositorio\\tiposunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23E7EE-33B8-4D4E-AD43-19BDE5F48AC4}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorio\\tiposunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BF53E-B2A8-4169-ABBD-EF214F035AC7}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak301\\source\\repos\\licorera\\lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BF53E-B2A8-4169-ABBD-EF214F035AC7}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23E7EE-33B8-4D4E-AD43-19BDE5F48AC4}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\salak301\\source\\repos\\licorera\\mst_pruebas\\nucleo\\entidadeshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23E7EE-33B8-4D4E-AD43-19BDE5F48AC4}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\nucleo\\entidadeshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF05025-1A19-4AB8-825D-392FBBEC7BC0}|lib_entidades\\lib_entidades.csproj|c:\\users\\salak301\\source\\repos\\licorera\\lib_entidades\\bebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF05025-1A19-4AB8-825D-392FBBEC7BC0}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\bebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF05025-1A19-4AB8-825D-392FBBEC7BC0}|lib_entidades\\lib_entidades.csproj|c:\\users\\salak301\\source\\repos\\licorera\\lib_entidades\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF05025-1A19-4AB8-825D-392FBBEC7BC0}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfiguracionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\licorera\\mst_pruebas\\Nucleo\\ConfiguracionHelper.cs",
+              "RelativeDocumentMoniker": "mst_pruebas\\Nucleo\\ConfiguracionHelper.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\licorera\\mst_pruebas\\Nucleo\\ConfiguracionHelper.cs",
+              "RelativeToolTip": "mst_pruebas\\Nucleo\\ConfiguracionHelper.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:28:34.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiposUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\licorera\\mst_pruebas\\Repositorio\\TiposUnitTest.cs",
+              "RelativeDocumentMoniker": "mst_pruebas\\Repositorio\\TiposUnitTest.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\licorera\\mst_pruebas\\Repositorio\\TiposUnitTest.cs",
+              "RelativeToolTip": "mst_pruebas\\Repositorio\\TiposUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:27:32.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntidadesHelper.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\licorera\\mst_pruebas\\Nucleo\\EntidadesHelper.cs",
+              "RelativeDocumentMoniker": "mst_pruebas\\Nucleo\\EntidadesHelper.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\licorera\\mst_pruebas\\Nucleo\\EntidadesHelper.cs",
+              "RelativeToolTip": "mst_pruebas\\Nucleo\\EntidadesHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:24:45.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tipos.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\licorera\\lib_entidades\\Tipos.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Tipos.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\licorera\\lib_entidades\\Tipos.cs",
+              "RelativeToolTip": "lib_entidades\\Tipos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:58:36.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bebidas.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\licorera\\lib_entidades\\Bebidas.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Bebidas.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\licorera\\lib_entidades\\Bebidas.cs",
+              "RelativeToolTip": "lib_entidades\\Bebidas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:57:49.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\licorera\\lib_repositorios\\Conexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Conexion.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\licorera\\lib_repositorios\\Conexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:40:01.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
